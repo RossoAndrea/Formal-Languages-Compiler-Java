@@ -1,0 +1,16 @@
+# File compilati Java
+*.class
+
+# File temporanei ed output generati dal compilatore
+Output.j
+
+# File di configurazione di IntelliJ IDEA (e altri IDE)
+.idea/
+out/
+*.iml
+*.iws
+
+# File specifici del sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini

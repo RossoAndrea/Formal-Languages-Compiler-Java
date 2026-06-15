@@ -1,0 +1,9 @@
+/* input 2024
+****/
+read(a_1, _2b);
+for(x := 0; <> a_1 _2b) do
+    if(> a_1 _2b) assign [- a_1 _2b to a_1]
+    else assign [- _2b a_1 to _2b] end;
+print(a_1, + (_2b,a_1,42),2023);
+assign [114 to c,d,e];
+print(c,d,e) //print di più argomenti
